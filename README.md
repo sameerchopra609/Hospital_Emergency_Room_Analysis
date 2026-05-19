@@ -6,24 +6,6 @@ This project focuses on analysing hospital emergency room operations using inter
 The objective of this project was to transform raw healthcare data into meaningful operational insights that could help hospital management improve decision-making, monitor patient trends, optimise resource allocation, and enhance overall patient experience.
 
 
-
-
-Business Objectives
-
-The dashboard was designed to support:
-
-Operational performance analysis
-Patient inflow monitoring
-Wait time analysis
-Patient satisfaction tracking
-Resource optimisation and staffing decisions
-Trend identification for management reporting
-Data driven healthcare decision making
-
-
-
-
-
 Key Insights Derived
 
 
