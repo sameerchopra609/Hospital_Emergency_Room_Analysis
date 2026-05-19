@@ -47,7 +47,7 @@ Trend visualisation for service quality assessment
 Identification of fluctuations in patient experience metrics through sparklines chart in the dashboard
 
 
-Technical Workflow
+Technical Workflow 
 
 Business requirement gathering
 Data understanding and exploratory analysis
