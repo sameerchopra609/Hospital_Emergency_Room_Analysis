@@ -31,23 +31,36 @@ Male patients accounted for approximately 51% of total patient visits.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Dashboard Features
-
-
-
-
-
-
-
-
-
-Emergency Room Visit Analysis
-
-
-
-
-
-
 
 
 Daily patient inflow tracking
@@ -58,29 +71,11 @@ Area sparklines for identifying peak traffic periods and seasonal patterns
 
 Interactive navigation between weekday-level and date wise analysis using hyperlinks
 
-
-
-
-
-
-
-Wait Time Monitoring
-
-
-
 Average patient wait time analysis
 
 Daily wait-time trend tracking
 
 Identification of high delay operational periods
-
-
-
-
-Patient Satisfaction Analysis
-
-
-
 
 Daily satisfaction score monitoring
 
