@@ -6,6 +6,8 @@ This project focuses on analysing hospital emergency room operations using inter
 The objective of this project was to transform raw healthcare data into meaningful operational insights that could help hospital management improve decision-making, monitor patient trends, optimise resource allocation, and enhance overall patient experience.
 
 
+
+
 Business Objectives
 
 The dashboard was designed to support:
@@ -18,7 +20,12 @@ Resource optimisation and staffing decisions
 Trend identification for management reporting
 Data driven healthcare decision making
 
+
+
+
+
 Key Insights Derived
+
 
 The average patient satisfaction score remained consistently high at 4.99/5 across 1.8 years of data.
 
@@ -31,6 +38,10 @@ A large number of patients were referred to the Orthopedic Department, indicatin
 Around 49% of patients were not admitted, suggesting a high proportion of non-critical treatments and routine emergency visits.
 
 Male patients accounted for approximately 51% of total patient visits.
+
+
+
+
 
 Dashboard Features
 
