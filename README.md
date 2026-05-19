@@ -9,6 +9,12 @@ The objective of this project was to transform raw healthcare data into meaningf
 Key Insights Derived
 
 
+
+
+
+
+
+
 The average patient satisfaction score remained consistently high at 4.99/5 across 1.8 years of data.
 
 Approximately 41% of patients were attended within 30 minutes, while the overall average wait time was 35 minutes.
@@ -27,18 +33,28 @@ Male patients accounted for approximately 51% of total patient visits.
 
 Dashboard Features
 
+
+
+
+
+
+
+
+
 Emergency Room Visit Analysis
+
+
+
+
+
+
 
 
 Daily patient inflow tracking
 
-
-
 Weekly and monthly trend analysis
 
-
 Area sparklines for identifying peak traffic periods and seasonal patterns
-
 
 Interactive navigation between weekday-level and date wise analysis using hyperlinks
 
@@ -50,11 +66,11 @@ Interactive navigation between weekday-level and date wise analysis using hyperl
 
 Wait Time Monitoring
 
+
+
 Average patient wait time analysis
 
-
 Daily wait-time trend tracking
-
 
 Identification of high delay operational periods
 
@@ -63,6 +79,9 @@ Identification of high delay operational periods
 
 Patient Satisfaction Analysis
 
+
+
+
 Daily satisfaction score monitoring
 
 Trend visualisation for service quality assessment
@@ -70,39 +89,33 @@ Trend visualisation for service quality assessment
 Identification of fluctuations in patient experience metrics through sparklines chart in the dashboard
 
 
+
+
+
 Technical Workflow 
+
 
 
 
 Business requirement gathering
 
-
 Data understanding and exploratory analysis
-
 
 Data import using Power Query
 
-
 Data cleaning and quality checks
-
 
 Calendar table creation
 
-
 Data modelling using Power Pivot
-
 
 DAX calculations and KPI development
 
-
 Pivot table creation
-
 
 Dashboard design and chart formatting
 
-
 Interactive dashboard development
-
 
 Insight generation and business interpretation
 
@@ -112,6 +125,10 @@ Insight generation and business interpretation
 
 
 Skills & Technologies Applied
+
+
+
+
 
 
 Power Query
@@ -138,41 +155,42 @@ Business Insight Generation
 
 
 
+
+
+
+
 Business & Analytical Exposure
+
+
+
 
 
 Operational analytics
 
-
 Healthcare data analysis
-
 
 Patient behaviour analysis
 
-
 Resource optimisation analysis
-
 
 KPI interpretation
 
+Business reporting through dashboarding
 
-Business reporting
 
 
-Dashboard storytelling
+
+
+
 
 
 Project Outcome
-
-
 
 This project helped convert raw hospital emergency room data into actionable operational insights, enabling better visibility into
 
 patient trends,
 
-
 service quality,
-
 
 wait time performance,
 
